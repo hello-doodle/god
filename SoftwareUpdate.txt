@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Update Discord and Contributing Guide URLs (#9270)
