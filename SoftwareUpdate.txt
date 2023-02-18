@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Update OpenVINO INT8 export (#7515)
