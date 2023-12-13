@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Add new YOLOv8 OBB model metrics (#7379)
